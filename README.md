@@ -32,7 +32,9 @@ Description: A genetics professor experiments with a treatment for his comatose 
 Technologies Used
 Tableau: For creating interactive data visualizations and dashboards.
 Data Source: Netflix dataset containing information about movies and TV shows, including ratings, genres, release years, and more.
-Conclusion
+
+#Conclusion
+
 This project demonstrates how to effectively use Tableau for data visualization, providing a comprehensive analysis of Netflix's content library. The insights gained from this dashboard can help understand viewing trends, content distribution, and popular genres on Netflix.
 
 Feel free to explore the dashboard and gain new insights from the data!
